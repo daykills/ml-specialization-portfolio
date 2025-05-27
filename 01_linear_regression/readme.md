@@ -2,6 +2,11 @@
 
 This project uses the California Housing dataset to explore linear regression techniques for predicting housing prices.
 
+## 📈 Predictions vs Actual
+Here’s the model’s predictions compared to actual housing prices:
+
+![Predictions vs Actual](prediction_vs_actual.png)
+
 ## 📊 Dataset
 - Source: `sklearn.datasets.fetch_california_housing()`
 - Features include:
